@@ -12,7 +12,7 @@ import (
 )
 
 const (
-	containerVethPrefix = "eth"
+	containerVethPrefix = "wlan"
 	vethPrefix          = "veth"
 	vethLen             = len(vethPrefix) + 7
 	NetworkType         = "macvlan"      // driver type name

@@ -47,7 +47,7 @@ const (
 	NetworkType                = "bridge"
 	vethPrefix                 = "veth"
 	vethLen                    = len(vethPrefix) + 7
-	defaultContainerVethPrefix = "eth"
+	defaultContainerVethPrefix = "wlan"
 )
 
 const (
